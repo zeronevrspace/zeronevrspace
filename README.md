@@ -21,5 +21,5 @@ problem solver.
 	[Demo2](https://1drv.ms/v/s!AnHJKmzh8gYHg0gJR-pVxy8XamoK)
 	[Demo3](https://1drv.ms/i/s!AnHJKmzh8gYHg09N62DlXk9VqEW7)
 ## Kinect & image processing
-	[Video1](https://1drv.ms/v/s!AnHJKmzh8gYHhmVXTcw9xCwQJJJd)
-	[Video2](https://1drv.ms/v/s!AnHJKmzh8gYHhXmotVc2dxOy41_l)
+[Video1](https://1drv.ms/v/s!AnHJKmzh8gYHhmVXTcw9xCwQJJJd)
+[Video2](https://1drv.ms/v/s!AnHJKmzh8gYHhXmotVc2dxOy41_l)

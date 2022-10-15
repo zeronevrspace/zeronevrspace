@@ -1,9 +1,3 @@
-### Hi there 👋
-
-A super passionate developer with excellent communication skills. 
-Keen on leaning new technologies and adapting in the field. Creatively tackles new challenges with a confident can do attitude. Organized, system-driven and logical
-problem solver.
-
 # Working Demos
 ## Hololens
   - Holo-Pets : [Video](https://1drv.ms/v/s!AnHJKmzh8gYHg3plnwcML6oABtId)

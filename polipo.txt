@@ -1,2 +1,7 @@
 https://mega.nz/folder/bvIHQSxI
 P6UcJPKMXKeTaKLb69Q75g
+
+
+138.201.198.231:7777
+name: root
+pw: $7rTHvckt2oNZGhmSqg9nY8

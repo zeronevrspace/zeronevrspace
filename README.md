@@ -20,19 +20,7 @@
 
 ## TR: TBYkTf38At6z2DEJDjQMBX7VkXPLWb7AT2
 
-## My1: TYxmQxxR5sFSdRjUxaczgNzya4Cehs1zDu
-
-## My2: TAeMrswACUMfTGJv5TaZpTD49GyVS1jVPS
-
-## SOL2: EktYwbPc2isV1rvLKGWKytMxPL86qowweQ5Kaxk7iTpv
-
 ## My4: TN5BogXPiYstCtmJookmAe8hjAEKdVRws4
-
-## SOL4: 69D2Dt39RqHfnx7NSk7K1ZZMc2EK9JuKXVfMPYJosyjy
-
-## SOL1: 7FQcVJvaUGqbHgQchTDFk8Si92TjhLSvEvBk7NPhAjDU
-
-## SOL3: 69D2Dt39RqHfnx7NSk7K1ZZMc2EK9JuKXVfMPYJosyjy
 
 ## My T1: TYxmQxxR5sFSdRjUxaczgNzya4Cehs1zDu
 
@@ -45,3 +33,9 @@
 ## My B2: 34Byiyk3mZE4wj4eUCVBKuHxsFCrm1RoUW
 
 ## My B3: 3HKp8XkJajk8XmA1GPbMhPhYKJ8jHvmrxo
+
+## My SOL1: 7FQcVJvaUGqbHgQchTDFk8Si92TjhLSvEvBk7NPhAjDU
+
+## My SOL2: EktYwbPc2isV1rvLKGWKytMxPL86qowweQ5Kaxk7iTpv
+
+## My SOL3: 69D2Dt39RqHfnx7NSk7K1ZZMc2EK9JuKXVfMPYJosyjy

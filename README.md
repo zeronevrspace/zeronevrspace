@@ -33,3 +33,15 @@
 ## SOL1: 7FQcVJvaUGqbHgQchTDFk8Si92TjhLSvEvBk7NPhAjDU
 
 ## SOL3: 69D2Dt39RqHfnx7NSk7K1ZZMc2EK9JuKXVfMPYJosyjy
+
+## My T1: TYxmQxxR5sFSdRjUxaczgNzya4Cehs1zDu
+
+## My T2: TAeMrswACUMfTGJv5TaZpTD49GyVS1jVPS
+
+## My T3: TN5BogXPiYstCtmJookmAe8hjAEKdVRws4
+
+## My B1: 34chUFPJKu9FtfD2vBkc11QzHCKUGeV25H
+
+## My B2: 34Byiyk3mZE4wj4eUCVBKuHxsFCrm1RoUW
+
+## My B3: 3HKp8XkJajk8XmA1GPbMhPhYKJ8jHvmrxo

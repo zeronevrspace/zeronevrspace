@@ -18,6 +18,11 @@
 [Video1](https://1drv.ms/v/s!AnHJKmzh8gYHhmVXTcw9xCwQJJJd)
 [Video2](https://1drv.ms/v/s!AnHJKmzh8gYHhXmotVc2dxOy41_l)
 
+## Smile
+Last time 50 was all recevied? or you exchanged some?
+Hyon says some of them are too old ones. Please exchange them if you can.
+This is business, not persssonal thing.
+
 ## TR: TBYkTf38At6z2DEJDjQMBX7VkXPLWb7AT2
 
 ## My4: TN5BogXPiYstCtmJookmAe8hjAEKdVRws4
